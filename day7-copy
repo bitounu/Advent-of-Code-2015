@@ -1,0 +1,37 @@
+at AND az -> bb
+at OR az -> ba
+NOT bb -> bc
+ba AND bc -> bd
+as AND bd -> bf
+NOT bf -> bg
+as OR bd -> be
+be AND bg -> bh
+1 AND bh -> bi
+ap LSHIFT 1 -> bj
+bj OR bi -> bk
+bk LSHIFT 1 -> ce
+bi LSHIFT 15 -> bm
+as RSHIFT 1 -> bl
+bl OR bm -> bn
+bn RSHIFT 2 -> bo
+bn RSHIFT 3 -> bp
+bn RSHIFT 5 -> bq
+bn RSHIFT 1 -> cg
+bp OR bq -> br
+bp AND bq -> bs
+bn OR by -> bz
+bn AND by -> ca
+bo OR bu -> bv
+bo AND bu -> bw
+NOT bw -> bx
+NOT bs -> bt
+b RSHIFT 1 -> v
+bz AND cb -> cc
+br AND bt -> bu
+b AND n -> p
+b OR n -> o
+bv AND bx -> by
+b RSHIFT 5 -> f
+b RSHIFT 2 -> d
+b RSHIFT 3 -> e
+1674 -> b

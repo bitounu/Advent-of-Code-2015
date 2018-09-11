@@ -1,0 +1,678 @@
+['bn', 'RSHIFT', '2', 'bo']
+bRSHIFT
+['lf', 'RSHIFT', '1', 'ly']
+bRSHIFT
+['fo', 'RSHIFT', '3', 'fq']
+bRSHIFT
+['cj', 'OR', 'cp', 'cq']
+bOR
+['fo', 'OR', 'fz', 'ga']
+bOR
+['t', 'OR', 's', 'u']
+bOR
+['lx', 'a']
+lx = a
+['NOT', 'ax', 'ay']
+bNOT
+['he', 'RSHIFT', '2', 'hf']
+bRSHIFT
+['lf', 'OR', 'lq', 'lr']
+bOR
+['lr', 'AND', 'lt', 'lu']
+bAND
+['dy', 'OR', 'ej', 'ek']
+bOR
+['1', 'AND', 'cx', 'cy']
+bAND
+['hb', 'LSHIFT', '1', 'hv']
+bLSHIFT
+['1', 'AND', 'bh', 'bi']
+bAND
+['ih', 'AND', 'ij', 'ik']
+bAND
+['c', 'LSHIFT', '1', 't']
+bLSHIFT
+['ea', 'AND', 'eb', 'ed']
+bAND
+['km', 'OR', 'kn', 'ko']
+bOR
+['NOT', 'bw', 'bx']
+bNOT
+['ci', 'OR', 'ct', 'cu']
+bOR
+['NOT', 'p', 'q']
+bNOT
+['lw', 'OR', 'lv', 'lx']
+bOR
+['NOT', 'lo', 'lp']
+bNOT
+['fp', 'OR', 'fv', 'fw']
+bOR
+['o', 'AND', 'q', 'r']
+bAND
+['dh', 'AND', 'dj', 'dk']
+bAND
+['ap', 'LSHIFT', '1', 'bj']
+bLSHIFT
+['bk', 'LSHIFT', '1', 'ce']
+bLSHIFT
+['NOT', 'ii', 'ij']
+bNOT
+['gh', 'OR', 'gi', 'gj']
+bOR
+['kk', 'RSHIFT', '1', 'ld']
+bRSHIFT
+['lc', 'LSHIFT', '1', 'lw']
+bLSHIFT
+['lb', 'OR', 'la', 'lc']
+bOR
+['1', 'AND', 'am', 'an']
+bAND
+['gn', 'AND', 'gp', 'gq']
+bAND
+['lf', 'RSHIFT', '3', 'lh']
+bRSHIFT
+['e', 'OR', 'f', 'g']
+bOR
+['lg', 'AND', 'lm', 'lo']
+bAND
+['ci', 'RSHIFT', '1', 'db']
+bRSHIFT
+['cf', 'LSHIFT', '1', 'cz']
+bLSHIFT
+['bn', 'RSHIFT', '1', 'cg']
+bRSHIFT
+['et', 'AND', 'fe', 'fg']
+bAND
+['is', 'OR', 'it', 'iu']
+bOR
+['kw', 'AND', 'ky', 'kz']
+bAND
+['ck', 'AND', 'cl', 'cn']
+bAND
+['bj', 'OR', 'bi', 'bk']
+bOR
+['gj', 'RSHIFT', '1', 'hc']
+bRSHIFT
+['iu', 'AND', 'jf', 'jh']
+bAND
+['NOT', 'bs', 'bt']
+bNOT
+['kk', 'OR', 'kv', 'kw']
+bOR
+['ks', 'AND', 'ku', 'kv']
+bAND
+['hz', 'OR', 'ik', 'il']
+bOR
+['b', 'RSHIFT', '1', 'v']
+bRSHIFT
+['iu', 'RSHIFT', '1', 'jn']
+bRSHIFT
+['fo', 'RSHIFT', '5', 'fr']
+bRSHIFT
+['be', 'AND', 'bg', 'bh']
+bAND
+['ga', 'AND', 'gc', 'gd']
+bAND
+['hf', 'OR', 'hl', 'hm']
+bOR
+['ld', 'OR', 'le', 'lf']
+bOR
+['as', 'RSHIFT', '5', 'av']
+bRSHIFT
+['fm', 'OR', 'fn', 'fo']
+bOR
+['hm', 'AND', 'ho', 'hp']
+bAND
+['lg', 'OR', 'lm', 'ln']
+bOR
+['NOT', 'kx', 'ky']
+bNOT
+['kk', 'RSHIFT', '3', 'km']
+bRSHIFT
+['ek', 'AND', 'em', 'en']
+bAND
+['NOT', 'ft', 'fu']
+bNOT
+['NOT', 'jh', 'ji']
+bNOT
+['jn', 'OR', 'jo', 'jp']
+bOR
+['gj', 'AND', 'gu', 'gw']
+bAND
+['d', 'AND', 'j', 'l']
+bAND
+['et', 'RSHIFT', '1', 'fm']
+bRSHIFT
+['jq', 'OR', 'jw', 'jx']
+bOR
+['ep', 'OR', 'eo', 'eq']
+bOR
+['lv', 'LSHIFT', '15', 'lz']
+bLSHIFT
+['NOT', 'ey', 'ez']
+bNOT
+['jp', 'RSHIFT', '2', 'jq']
+bRSHIFT
+['eg', 'AND', 'ei', 'ej']
+bAND
+['NOT', 'dm', 'dn']
+bNOT
+['jp', 'AND', 'ka', 'kc']
+bAND
+['as', 'AND', 'bd', 'bf']
+bAND
+['fk', 'OR', 'fj', 'fl']
+bOR
+['dw', 'OR', 'dx', 'dy']
+bOR
+['lj', 'AND', 'll', 'lm']
+bAND
+['ec', 'AND', 'ee', 'ef']
+bAND
+['fq', 'AND', 'fr', 'ft']
+bAND
+['NOT', 'kp', 'kq']
+bNOT
+['ki', 'OR', 'kj', 'kk']
+bOR
+['cz', 'OR', 'cy', 'da']
+bOR
+['as', 'RSHIFT', '3', 'au']
+bRSHIFT
+['an', 'LSHIFT', '15', 'ar']
+bLSHIFT
+['fj', 'LSHIFT', '15', 'fn']
+bLSHIFT
+['1', 'AND', 'fi', 'fj']
+bAND
+['he', 'RSHIFT', '1', 'hx']
+bRSHIFT
+['lf', 'RSHIFT', '2', 'lg']
+bRSHIFT
+['kf', 'LSHIFT', '15', 'kj']
+bLSHIFT
+['dz', 'AND', 'ef', 'eh']
+bAND
+['ib', 'OR', 'ic', 'id']
+bOR
+['lf', 'RSHIFT', '5', 'li']
+bRSHIFT
+['bp', 'OR', 'bq', 'br']
+bOR
+['NOT', 'gs', 'gt']
+bNOT
+['fo', 'RSHIFT', '1', 'gh']
+bRSHIFT
+['bz', 'AND', 'cb', 'cc']
+bAND
+['ea', 'OR', 'eb', 'ec']
+bOR
+['lf', 'AND', 'lq', 'ls']
+bAND
+['NOT', 'l', 'm']
+bNOT
+['hz', 'RSHIFT', '3', 'ib']
+bRSHIFT
+['NOT', 'di', 'dj']
+bNOT
+['NOT', 'lk', 'll']
+bNOT
+['jp', 'RSHIFT', '3', 'jr']
+bRSHIFT
+['jp', 'RSHIFT', '5', 'js']
+bRSHIFT
+['NOT', 'bf', 'bg']
+bNOT
+['s', 'LSHIFT', '15', 'w']
+bLSHIFT
+['eq', 'LSHIFT', '1', 'fk']
+bLSHIFT
+['jl', 'OR', 'jk', 'jm']
+bOR
+['hz', 'AND', 'ik', 'im']
+bAND
+['dz', 'OR', 'ef', 'eg']
+bOR
+['1', 'AND', 'gy', 'gz']
+bAND
+['la', 'LSHIFT', '15', 'le']
+bLSHIFT
+['br', 'AND', 'bt', 'bu']
+bAND
+['NOT', 'cn', 'co']
+bNOT
+['v', 'OR', 'w', 'x']
+bOR
+['d', 'OR', 'j', 'k']
+bOR
+['1', 'AND', 'gd', 'ge']
+bAND
+['ia', 'OR', 'ig', 'ih']
+bOR
+['NOT', 'go', 'gp']
+bNOT
+['NOT', 'ed', 'ee']
+bNOT
+['jq', 'AND', 'jw', 'jy']
+bAND
+['et', 'OR', 'fe', 'ff']
+bOR
+['aw', 'AND', 'ay', 'az']
+bAND
+['ff', 'AND', 'fh', 'fi']
+bAND
+['ir', 'LSHIFT', '1', 'jl']
+bLSHIFT
+['gg', 'LSHIFT', '1', 'ha']
+bLSHIFT
+['x', 'RSHIFT', '2', 'y']
+bRSHIFT
+['db', 'OR', 'dc', 'dd']
+bOR
+['bl', 'OR', 'bm', 'bn']
+bOR
+['ib', 'AND', 'ic', 'ie']
+bAND
+['x', 'RSHIFT', '3', 'z']
+bRSHIFT
+['lh', 'AND', 'li', 'lk']
+bAND
+['ce', 'OR', 'cd', 'cf']
+bOR
+['NOT', 'bb', 'bc']
+bNOT
+['hi', 'AND', 'hk', 'hl']
+bAND
+['NOT', 'gb', 'gc']
+bNOT
+['1', 'AND', 'r', 's']
+bAND
+['fw', 'AND', 'fy', 'fz']
+bAND
+['fb', 'AND', 'fd', 'fe']
+bAND
+['1', 'AND', 'en', 'eo']
+bAND
+['z', 'OR', 'aa', 'ab']
+bOR
+['bi', 'LSHIFT', '15', 'bm']
+bLSHIFT
+['hg', 'OR', 'hh', 'hi']
+bOR
+['kh', 'LSHIFT', '1', 'lb']
+bLSHIFT
+['cg', 'OR', 'ch', 'ci']
+bOR
+['1', 'AND', 'kz', 'la']
+bAND
+['gf', 'OR', 'ge', 'gg']
+bOR
+['gj', 'RSHIFT', '2', 'gk']
+bRSHIFT
+['dd', 'RSHIFT', '2', 'de']
+bRSHIFT
+['NOT', 'ls', 'lt']
+bNOT
+['lh', 'OR', 'li', 'lj']
+bOR
+['jr', 'OR', 'js', 'jt']
+bOR
+['au', 'AND', 'av', 'ax']
+bAND
+['0', 'c']
+0 = c
+['he', 'AND', 'hp', 'hr']
+bAND
+['id', 'AND', 'if', 'ig']
+bAND
+['et', 'RSHIFT', '5', 'ew']
+bRSHIFT
+['bp', 'AND', 'bq', 'bs']
+bAND
+['e', 'AND', 'f', 'h']
+bAND
+['ly', 'OR', 'lz', 'ma']
+bOR
+['1', 'AND', 'lu', 'lv']
+bAND
+['NOT', 'jd', 'je']
+bNOT
+['ha', 'OR', 'gz', 'hb']
+bOR
+['dy', 'RSHIFT', '1', 'er']
+bRSHIFT
+['iu', 'RSHIFT', '2', 'iv']
+bRSHIFT
+['NOT', 'hr', 'hs']
+bNOT
+['as', 'RSHIFT', '1', 'bl']
+bRSHIFT
+['kk', 'RSHIFT', '2', 'kl']
+bRSHIFT
+['b', 'AND', 'n', 'p']
+bAND
+['ln', 'AND', 'lp', 'lq']
+bAND
+['cj', 'AND', 'cp', 'cr']
+bAND
+['dl', 'AND', 'dn', 'do']
+bAND
+['ci', 'RSHIFT', '2', 'cj']
+bRSHIFT
+['as', 'OR', 'bd', 'be']
+bOR
+['ge', 'LSHIFT', '15', 'gi']
+bLSHIFT
+['hz', 'RSHIFT', '5', 'ic']
+bRSHIFT
+['dv', 'LSHIFT', '1', 'ep']
+bLSHIFT
+['kl', 'OR', 'kr', 'ks']
+bOR
+['gj', 'OR', 'gu', 'gv']
+bOR
+['he', 'RSHIFT', '5', 'hh']
+bRSHIFT
+['NOT', 'fg', 'fh']
+bNOT
+['hg', 'AND', 'hh', 'hj']
+bAND
+['b', 'OR', 'n', 'o']
+bOR
+['jk', 'LSHIFT', '15', 'jo']
+bLSHIFT
+['gz', 'LSHIFT', '15', 'hd']
+bLSHIFT
+['cy', 'LSHIFT', '15', 'dc']
+bLSHIFT
+['kk', 'RSHIFT', '5', 'kn']
+bRSHIFT
+['ci', 'RSHIFT', '3', 'ck']
+bRSHIFT
+['at', 'OR', 'az', 'ba']
+bOR
+['iu', 'RSHIFT', '3', 'iw']
+bRSHIFT
+['ko', 'AND', 'kq', 'kr']
+bAND
+['NOT', 'eh', 'ei']
+bNOT
+['aq', 'OR', 'ar', 'as']
+bOR
+['iy', 'AND', 'ja', 'jb']
+bAND
+['dd', 'RSHIFT', '3', 'df']
+bRSHIFT
+['bn', 'RSHIFT', '3', 'bp']
+bRSHIFT
+['1', 'AND', 'cc', 'cd']
+bAND
+['at', 'AND', 'az', 'bb']
+bAND
+['x', 'OR', 'ai', 'aj']
+bOR
+['kk', 'AND', 'kv', 'kx']
+bAND
+['ao', 'OR', 'an', 'ap']
+bOR
+['dy', 'RSHIFT', '3', 'ea']
+bRSHIFT
+['x', 'RSHIFT', '1', 'aq']
+bRSHIFT
+['eu', 'AND', 'fa', 'fc']
+bAND
+['kl', 'AND', 'kr', 'kt']
+bAND
+['ia', 'AND', 'ig', 'ii']
+bAND
+['df', 'AND', 'dg', 'di']
+bAND
+['NOT', 'fx', 'fy']
+bNOT
+['k', 'AND', 'm', 'n']
+bAND
+['bn', 'RSHIFT', '5', 'bq']
+bRSHIFT
+['km', 'AND', 'kn', 'kp']
+bAND
+['dt', 'LSHIFT', '15', 'dx']
+bLSHIFT
+['hz', 'RSHIFT', '2', 'ia']
+bRSHIFT
+['aj', 'AND', 'al', 'am']
+bAND
+['cd', 'LSHIFT', '15', 'ch']
+bLSHIFT
+['hc', 'OR', 'hd', 'he']
+bOR
+['he', 'RSHIFT', '3', 'hg']
+bRSHIFT
+['bn', 'OR', 'by', 'bz']
+bOR
+['NOT', 'kt', 'ku']
+bNOT
+['z', 'AND', 'aa', 'ac']
+bAND
+['NOT', 'ak', 'al']
+bNOT
+['cu', 'AND', 'cw', 'cx']
+bAND
+['NOT', 'ie', 'if']
+bNOT
+['dy', 'RSHIFT', '2', 'dz']
+bRSHIFT
+['ip', 'LSHIFT', '15', 'it']
+bLSHIFT
+['de', 'OR', 'dk', 'dl']
+bOR
+['au', 'OR', 'av', 'aw']
+bOR
+['jg', 'AND', 'ji', 'jj']
+bAND
+['ci', 'AND', 'ct', 'cv']
+bAND
+['dy', 'RSHIFT', '5', 'eb']
+bRSHIFT
+['hx', 'OR', 'hy', 'hz']
+bOR
+['eu', 'OR', 'fa', 'fb']
+bOR
+['gj', 'RSHIFT', '3', 'gl']
+bRSHIFT
+['fo', 'AND', 'fz', 'gb']
+bAND
+['1', 'AND', 'jj', 'jk']
+bAND
+['jp', 'OR', 'ka', 'kb']
+bOR
+['de', 'AND', 'dk', 'dm']
+bAND
+['ex', 'AND', 'ez', 'fa']
+bAND
+['df', 'OR', 'dg', 'dh']
+bOR
+['iv', 'OR', 'jb', 'jc']
+bOR
+['x', 'RSHIFT', '5', 'aa']
+bRSHIFT
+['NOT', 'hj', 'hk']
+bNOT
+['NOT', 'im', 'in']
+bNOT
+['fl', 'LSHIFT', '1', 'gf']
+bLSHIFT
+['hu', 'LSHIFT', '15', 'hy']
+bLSHIFT
+['iq', 'OR', 'ip', 'ir']
+bOR
+['iu', 'RSHIFT', '5', 'ix']
+bRSHIFT
+['NOT', 'fc', 'fd']
+bNOT
+['NOT', 'el', 'em']
+bNOT
+['ck', 'OR', 'cl', 'cm']
+bOR
+['et', 'RSHIFT', '3', 'ev']
+bRSHIFT
+['hw', 'LSHIFT', '1', 'iq']
+bLSHIFT
+['ci', 'RSHIFT', '5', 'cl']
+bRSHIFT
+['iv', 'AND', 'jb', 'jd']
+bAND
+['dd', 'RSHIFT', '5', 'dg']
+bRSHIFT
+['as', 'RSHIFT', '2', 'at']
+bRSHIFT
+['NOT', 'jy', 'jz']
+bNOT
+['af', 'AND', 'ah', 'ai']
+bAND
+['1', 'AND', 'ds', 'dt']
+bAND
+['jx', 'AND', 'jz', 'ka']
+bAND
+['da', 'LSHIFT', '1', 'du']
+bLSHIFT
+['fs', 'AND', 'fu', 'fv']
+bAND
+['jp', 'RSHIFT', '1', 'ki']
+bRSHIFT
+['iw', 'AND', 'ix', 'iz']
+bAND
+['iw', 'OR', 'ix', 'iy']
+bOR
+['eo', 'LSHIFT', '15', 'es']
+bLSHIFT
+['ev', 'AND', 'ew', 'ey']
+bAND
+['ba', 'AND', 'bc', 'bd']
+bAND
+['fp', 'AND', 'fv', 'fx']
+bAND
+['jc', 'AND', 'je', 'jf']
+bAND
+['et', 'RSHIFT', '2', 'eu']
+bRSHIFT
+['kg', 'OR', 'kf', 'kh']
+bOR
+['iu', 'OR', 'jf', 'jg']
+bOR
+['er', 'OR', 'es', 'et']
+bOR
+['fo', 'RSHIFT', '2', 'fp']
+bRSHIFT
+['NOT', 'ca', 'cb']
+bNOT
+['bv', 'AND', 'bx', 'by']
+bAND
+['u', 'LSHIFT', '1', 'ao']
+bLSHIFT
+['cm', 'AND', 'co', 'cp']
+bAND
+['y', 'OR', 'ae', 'af']
+bOR
+['bn', 'AND', 'by', 'ca']
+bAND
+['1', 'AND', 'ke', 'kf']
+bAND
+['jt', 'AND', 'jv', 'jw']
+bAND
+['fq', 'OR', 'fr', 'fs']
+bOR
+['dy', 'AND', 'ej', 'el']
+bAND
+['NOT', 'kc', 'kd']
+bNOT
+['ev', 'OR', 'ew', 'ex']
+bOR
+['dd', 'OR', 'do', 'dp']
+bOR
+['NOT', 'cv', 'cw']
+bNOT
+['gr', 'AND', 'gt', 'gu']
+bAND
+['dd', 'RSHIFT', '1', 'dw']
+bRSHIFT
+['NOT', 'gw', 'gx']
+bNOT
+['NOT', 'iz', 'ja']
+bNOT
+['1', 'AND', 'io', 'ip']
+bAND
+['NOT', 'ag', 'ah']
+bNOT
+['b', 'RSHIFT', '5', 'f']
+bRSHIFT
+['NOT', 'cr', 'cs']
+bNOT
+['kb', 'AND', 'kd', 'ke']
+bAND
+['jr', 'AND', 'js', 'ju']
+bAND
+['cq', 'AND', 'cs', 'ct']
+bAND
+['il', 'AND', 'in', 'io']
+bAND
+['NOT', 'ju', 'jv']
+bNOT
+['du', 'OR', 'dt', 'dv']
+bOR
+['dd', 'AND', 'do', 'dq']
+bAND
+['b', 'RSHIFT', '2', 'd']
+bRSHIFT
+['jm', 'LSHIFT', '1', 'kg']
+bLSHIFT
+['NOT', 'dq', 'dr']
+bNOT
+['bo', 'OR', 'bu', 'bv']
+bOR
+['gk', 'OR', 'gq', 'gr']
+bOR
+['he', 'OR', 'hp', 'hq']
+bOR
+['NOT', 'h', 'i']
+bNOT
+['hf', 'AND', 'hl', 'hn']
+bAND
+['gv', 'AND', 'gx', 'gy']
+bAND
+['x', 'AND', 'ai', 'ak']
+bAND
+['bo', 'AND', 'bu', 'bw']
+bAND
+['hq', 'AND', 'hs', 'ht']
+bAND
+['hz', 'RSHIFT', '1', 'is']
+bRSHIFT
+['gj', 'RSHIFT', '5', 'gm']
+bRSHIFT
+['g', 'AND', 'i', 'j']
+bAND
+['gk', 'AND', 'gq', 'gs']
+bAND
+['dp', 'AND', 'dr', 'ds']
+bAND
+['b', 'RSHIFT', '3', 'e']
+bRSHIFT
+['gl', 'AND', 'gm', 'go']
+bAND
+['gl', 'OR', 'gm', 'gn']
+bOR
+['y', 'AND', 'ae', 'ag']
+bAND
+['hv', 'OR', 'hu', 'hw']
+bOR
+['1674', 'b']
+1674 = b
+['ab', 'AND', 'ad', 'ae']
+bAND
+['NOT', 'ac', 'ad']
+bNOT
+['1', 'AND', 'ht', 'hu']
+bAND
+['NOT', 'hn', 'ho']
+bNOT
